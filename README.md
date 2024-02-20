@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Bring medicine and technology together in my own way <br>📚 I'm proficient in python and I am currently learning R and expanding my knowledge in the former   <br>🎯 Goals: Publishing papers in medical AI, raising awareness of medical, and spearheading the health-tech industry <br>🎲 Fun fact: I write poems as much as I write code:)</p>
+<p align="left">✨ Bring medicine and technology together in my own way <br>📚 I'm proficient in python and I am currently learning R plus expanding my knowledge in the former   <br>🎯 Goals: Publishing papers in medical AI, raising awareness of medical AI, and spearheading the health-tech industry <br>🎲 Fun fact: I write poems as much as I write code:)</p>
 
 ###
 
