@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up? - This is The Geeky Med Student!</h1>
+<h1 align="left">Hey 👋 What's up? - This is The Geeky Doctor !</h1>
 
 ###
 
-<p align="left">My name is Abdelrahman and I'm a medical student with a passion for data science and AI from Alexandria, Egypt</p>
+<p align="left">My name is Abdelrahman, and I'm a medical graduate with a passion for data science and AI from Alexandria, Egypt</p>
 
 ###
 
